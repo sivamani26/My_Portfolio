@@ -4,7 +4,7 @@ import React, { useState } from 'react';
 import { useForm } from 'react-hook-form';
 
 function DemoForm() {
-  const { register, handleSubmit, error} = useForm();
+  const { register, handleSubmit} = useForm();
   const { userInfo, setuserInfo} = useState();
   const onSubmit= (data) => {
     setuserInfo(data);
