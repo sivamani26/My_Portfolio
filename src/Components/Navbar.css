@@ -9,17 +9,17 @@
     z-index: 10;
 }
 .header-bg {
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: rgba(42, 42, 42, 0.9);
     transition: 0.5s;
 }
 .navName {
-    color: rgba(8, 8, 8, 0.85);
+    color: rgba(255, 255, 255, 0.85);
     transition: 2s;
     /* font-weight: 500; */
 }
 
 .resMenu {
-    color:black;
+    color:rgb(255, 255, 255);
     transition: 2s;
 }
 
@@ -74,7 +74,7 @@
     }
     
     .navName  {
-        color: rgba(0, 0, 0, 0.85);
+        color: rgba(255, 255, 255, 0.85);
         transition: 0.4s;
         /* font-weight: 500; */
     }

@@ -5,6 +5,7 @@ import About from "./routes/About";
 import Project from "./routes/Project";
 import Contact from "./routes/Contact";
 import BookADemo from "./routes/BookADemo";
+import RegisterForm from "./routes/RegisterForm"
 import { Route, Routes } from "react-router-dom";
 
 
@@ -17,6 +18,7 @@ function App() {
       <Route path="/Project" element={<Project/>} />
       <Route path="/Contact" element={<Contact/>} />
       <Route path="/BookADemo" element={<BookADemo/>} />
+      <Route path="/RegisterForm"element={<RegisterForm/>}/>
    </Routes>
    </>
   );

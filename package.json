@@ -1,5 +1,4 @@
 {
-  "homepage": "http://sivamani26.github.io/My-Portfolio",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -9,6 +8,7 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-hook-form": "^7.43.2",
     "react-icons": "^4.7.1",
     "react-router-dom": "^6.8.0",
     "react-scripts": "5.0.1",
@@ -16,7 +16,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build", 
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d builder",
     "build": "react-scripts build",
     "test": "react-scripts test",
