@@ -10,8 +10,14 @@ const AboutContent = () => {
       <div className="left">
         <h1>Who am I?</h1>
         <p>
-          I'm a friendly Front-End Developer.I create responsive secure websites
-          for my clients.
+        Hi,
+
+I'm Venkata Siva Manikanta, a React (TypeScript) and .NET Developer at Delta Cubes. I specialize in creating seamless user experiences and robust solutions. Let's connect and collaborate!
+
+Best regards,
+<br></br>
+<br></br>
+Venkata Siva Manikanta Gandi
         </p>
         <Link to="/Contact">
           <button className="btn">Contact</button>
