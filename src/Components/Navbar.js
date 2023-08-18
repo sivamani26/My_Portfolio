@@ -1,5 +1,4 @@
 import "./Navbar.css";
-
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import { FaBars, FaTimes } from "react-icons/fa";
@@ -37,9 +36,9 @@ const Navbar = () => {
         <li  >
           <Link className ={color? "Link resMenu": "Link"} to="/Contact">Contact</Link>
         </li>
-        <li  >
+        {/* <li  >
           <Link className ={color? "Link resMenu": "Link"} to="/BookADemo">Book A Demo</Link>
-        </li>
+        </li> */}
       </ul>
       
       <div className ="hamburger" onClick={handleClick}>
