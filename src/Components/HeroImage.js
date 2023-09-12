@@ -12,7 +12,7 @@ const HeroImage = () => {
             <p>Hi, my self Siva Mani</p>
             <h1>I'm React Developer</h1>
             <Link to='/project' className ="btn">Projects</Link>
-            <Link to='/contact' className ="btn btn-light">Contact</Link>
+            <Link to='/about' className ="btn btn-light">About</Link>
         </div>
     </div>  
     )
