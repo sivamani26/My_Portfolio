@@ -17,7 +17,7 @@ const Footer = () => {
         <div className="left">
           <div className="location">
             <FaHome size={20} style={{ color: "#fff", marginRight: "1rem" }} />
-            <p>500082, Anjaiah Nagar, Hyderabad</p>
+            <p>500081, Anjaiah Nagar, Hyderabad</p>
           </div>
           <div className="phone">
             <h4>
