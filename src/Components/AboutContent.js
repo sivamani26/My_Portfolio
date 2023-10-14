@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import React from "react";
 import AboutPro1 from "../assets/AboutPro1.webp";
 import AboutPro2 from "../assets/AboutPro2.webp";
-import ResumeDoc from "../assets/Resume.docx";
+import Resumepdf from "../assets/Resume.pdf";
 
 const AboutContent = () => {
   return (
@@ -24,7 +24,7 @@ const AboutContent = () => {
         </Link>
         
         <button className="btn" style={{marginTop: "20px"}}>
-  <a className="Resume_Button" href={ResumeDoc} download="VenkataSivaManikantaResume.pdf">
+  <a className="Resume_Button" href={Resumepdf} download="VenkataSivaManikantaResume.pdf">
     Download Resume
   </a>
 </button>
