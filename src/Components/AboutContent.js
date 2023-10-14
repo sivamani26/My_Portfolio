@@ -13,7 +13,7 @@ const AboutContent = () => {
         <p>
           Hi, I'm Venkata Siva Manikanta, a React (TypeScript) and .NET
           Developer at Delta Cubes. I specialize in creating seamless user
-          experiences and robust solutions. Let's connect and collaborate! Best
+          experiences and robust solutions.Let's connect and collaborate! Best
           regards,
           <br></br>
           <br></br>
