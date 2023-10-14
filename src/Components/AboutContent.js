@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import React from "react";
 import AboutPro1 from "../assets/AboutPro1.webp";
 import AboutPro2 from "../assets/AboutPro2.webp";
-import ResumePDF from "../assets/Resume.pdf";
+import ResumeDoc from "../assets/Resume.docx";
 
 const AboutContent = () => {
   return (
@@ -13,7 +13,7 @@ const AboutContent = () => {
         <p>
           Hi, I'm Venkata Siva Manikanta, a React (TypeScript) and .NET
           Developer at Delta Cubes. I specialize in creating seamless user
-          experiences and robust solutions. Let's connect and collaborate! Best
+          experiences and robust solutions.Let's connect and collaborate! Best
           regards,
           <br></br>
           <br></br>
@@ -24,7 +24,7 @@ const AboutContent = () => {
         </Link>
         
         <button className="btn" style={{marginTop: "20px"}}>
-  <a className="Resume_Button" href={ResumePDF} download="VenkataSivaManikantaResume.pdf">
+  <a className="Resume_Button" href={ResumeDoc} download="VenkataSivaManikantaResume.pdf">
     Download Resume
   </a>
 </button>
