@@ -11,7 +11,7 @@ const AboutContent = () => {
       <div className="left">
         <h1>Who am I?</h1>
         <p>
-          Hi, I'm Venkata Siva Manikanta, a React (TypeScript) and .NET
+          Hi, I'm Venkata Siva Manikanta, a React and .NET
           Developer at Delta Cubes.I specialize in creating seamless user
           experiences and robust solutions.Let's connect and collaborate! Best
           regards,
