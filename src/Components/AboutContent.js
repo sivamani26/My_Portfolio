@@ -17,7 +17,7 @@ const AboutContent = () => {
           regards,
           <br></br>
           <br></br>
-          Venkata Siva Manikanta Gandi
+          Venkata Siva Manikanta Gandi.
         </p>
         <Link to="/Contact">
           <button className="btn">Contact</button>
