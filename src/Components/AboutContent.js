@@ -24,7 +24,11 @@ const AboutContent = () => {
         </Link>
         
         <button className="btn" style={{marginTop: "20px"}}>
+<<<<<<< HEAD
   <a className="Resume_Button" href={ResumeDoc} download="VenkataSivaManikantaResume.pdf">
+=======
+  <a className="Resume_Button" href={Resumepdf} download="VenkataSivaManikanta_Resume">
+>>>>>>> 63be30a52797bd4ad66e85f2aa7454e5133983b8
     Download Resume
   </a>
 </button>
