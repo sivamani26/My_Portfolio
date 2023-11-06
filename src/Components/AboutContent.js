@@ -11,8 +11,8 @@ const AboutContent = () => {
       <div className="left">
         <h1>Who am I?</h1>
         <p>
-          Hi, I'm Venkata Siva Manikanta, a React (TypeScript) and .NET
-          Developer at Delta Cubes. I specialize in creating seamless user
+          Hi, I'm Venkata Siva Manikanta, a React and .NET
+          Developer at Delta Cubes.I specialize in creating seamless user
           experiences and robust solutions.Let's connect and collaborate! Best
           regards,
           <br></br>
@@ -24,11 +24,7 @@ const AboutContent = () => {
         </Link>
         
         <button className="btn" style={{marginTop: "20px"}}>
-<<<<<<< HEAD
   <a className="Resume_Button" href={ResumeDoc} download="VenkataSivaManikantaResume.pdf">
-=======
-  <a className="Resume_Button" href={Resumepdf} download="VenkataSivaManikanta_Resume">
->>>>>>> 63be30a52797bd4ad66e85f2aa7454e5133983b8
     Download Resume
   </a>
 </button>
