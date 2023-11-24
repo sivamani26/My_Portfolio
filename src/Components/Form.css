@@ -9,7 +9,18 @@ form {
     margin:auto;
     max-width: 600px;
 }
-
+.form .btn {
+    padding: 12px 32px;
+    font-size: 1rem;
+    text-transform: uppercase;
+    background: yellow;
+    color: black;
+    border: 1px solid white;
+    font-weight:600;
+    cursor: pointer;
+    position: relative;
+    left: 40%;
+  }
 form input, form textarea{
     margin-bottom: 1rem;
     padding: 10px 18px;

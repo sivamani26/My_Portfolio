@@ -25,7 +25,7 @@ const Footer = () => {
                 size={15}
                 style={{ color: "#fff", marginRight: "2rem" }}
               />
-              7661069233
+              7989921486
             </h4>
           </div>
 
@@ -35,7 +35,7 @@ const Footer = () => {
                 size={15}
                 style={{ color: "#fff", marginRight: "2rem" }}
               />
-              venkat.sivamani.04@gmil.com
+              venkatasivamani1977@gmail.com
             </h4>
           </div>
         </div>
