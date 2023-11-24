@@ -39,11 +39,10 @@ const Footer = () => {
             </h4>
           </div>
         </div>
-
         <div className="right">
           <h4>About My self</h4>
           <p>
-            "Computer science graduate with a passion for building user-friendly
+            Computer science graduate with 3.2 years of hands-on experience crafting user-friendly
             and high-performance web applications using React.
           </p>
           <div className="social">
